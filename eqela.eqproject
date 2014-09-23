@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# LayerWidget
+#
+
+projectname: LayerWidget
+vendorid: com.darryldomingo.example
+mainmodule: com.darryldomingo.example.layerwidget
